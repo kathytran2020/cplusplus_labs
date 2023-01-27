@@ -1,0 +1,32 @@
+<diagram program="umletino" version="14.4.0-SNAPSHOT"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLClass</id><coordinates><x>0</x><y>40</y><w>210</w><h>190</h></coordinates><panel_attributes>FileStream
+--
+ifstream encryptedFile
+string fileName
+--
+void setEncryptedFile(string)
+void open(ifstream)
+string readText(ifstream)
+void close(ifstream)</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>0</x><y>360</y><w>210</w><h>190</h></coordinates><panel_attributes>Storage
+--
+ string encryptedText
+--
+string setEncryptedText(string)
+void getEncryptedText()
+void delete()</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>300</x><y>40</y><w>210</w><h>190</h></coordinates><panel_attributes>DecryptionProcess
+--
+string decrypt
+string rotorChar
+--
+void rotor1()
+void rotor2()
+void setDecrypt()
+void runDecodeString(string)
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>300</x><y>360</y><w>210</w><h>190</h></coordinates><panel_attributes>OutputStream
+--
+oftream output
+string decryptedText
+--
+void setOutput()
+void openOutFile()
+void transcribeDecryption(decryptedText)
+void closeOutFile()</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>90</x><y>220</y><w>30</w><h>160</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>10;140;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>200</x><y>150</y><w>120</w><h>320</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>100;10;10;300</additional_attributes></element><element><id>Relation</id><coordinates><x>410</x><y>220</y><w>30</w><h>160</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>10;140;10;10</additional_attributes></element></diagram>

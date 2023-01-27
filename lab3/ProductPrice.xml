@@ -1,0 +1,1505 @@
+<Product>
+	<Name>Air freshener</Name>
+	<Barcode>100001001001001100100000110011000100001011000</Barcode>
+	<Price>18.58</Price>
+</Product>
+<Product>
+	<Name>Alfredo sauce</Name>
+	<Barcode>100001001001000011001011000100000110100011000</Barcode>
+	<Price>10.66</Price>
+</Product>
+<Product>
+	<Name>All spice</Name>
+	<Barcode>100001001001000011001000011011000100001000110</Barcode>
+	<Price>10.79</Price>
+</Product>
+<Product>
+	<Name>Allergy medication</Name>
+	<Barcode>100001001001000011001000011100011000100000110</Barcode>
+	<Price>3.21</Price>
+</Product>
+<Product>
+	<Name>Aluminum foil</Name>
+	<Barcode>100001001001000011110000001101000010001001100</Barcode>
+	<Price>2.49</Price>
+</Product>
+<Product>
+	<Name>Anchovies</Name>
+	<Barcode>100001001000010011101001000100001100100010010</Barcode>
+	<Price>4.31</Price>
+</Product>
+<Product>
+	<Name>Antacids</Name>
+	<Barcode>100001001000010011000010110100001001101001000</Barcode>
+	<Price>14.71</Price>
+</Product>
+<Product>
+	<Name>Apple sauce</Name>
+	<Barcode>100001001001010010001010010001000011100011000</Barcode>
+	<Price>18.78</Price>
+</Product>
+<Product>
+	<Name>Apples</Name>
+	<Barcode>100001001001010010001010010001000011100011000</Barcode>
+	<Price>5.36</Price>
+</Product>
+<Product>
+	<Name>Apricots</Name>
+	<Barcode>100001001001010010100000110001001100101001000</Barcode>
+	<Price>5.69</Price>
+</Product>
+<Product>
+	<Name>Asparagus</Name>
+	<Barcode>100001001001000110001010010100001001100000110</Barcode>
+	<Price>19.84</Price>
+</Product>
+<Product>
+	<Name>Avocados</Name>
+	<Barcode>100001001011000001100010010101001000100001001</Barcode>
+	<Price>1.82</Price>
+</Product>
+<Product>
+	<Name>Bacon</Name>
+	<Barcode>001001001100001001101001000100010010000010011</Barcode>
+	<Price>13.74</Price>
+</Product>
+<Product>
+	<Name>Bagels</Name>
+	<Barcode>001001001100001001000001101100011000001000011</Barcode>
+	<Price>8.62</Price>
+</Product>
+<Product>
+	<Name>Baguette</Name>
+	<Barcode>001001001100001001000001101110000001100011000</Barcode>
+	<Price>15.52</Price>
+</Product>
+<Product>
+	<Name>Bananas</Name>
+	<Barcode>001001001100001001000010011100001001000010011</Barcode>
+	<Price>8.36</Price>
+</Product>
+<Product>
+	<Name>Band-aids</Name>
+	<Barcode>001001001100001001000010011000011001010000101</Barcode>
+	<Price>18.96</Price>
+</Product>
+<Product>
+	<Name>Bar soap</Name>
+	<Barcode>001001001100001001100000110011000100001000110</Barcode>
+	<Price>16.42</Price>
+</Product>
+<Product>
+	<Name>Basil</Name>
+	<Barcode>001001001100001001001000110001001100001000011</Barcode>
+	<Price>9.93</Price>
+</Product>
+<Product>
+	<Name>Bathroom cleaner</Name>
+	<Barcode>001001001100001001000010110100001100100000110</Barcode>
+	<Price>7.20</Price>
+</Product>
+<Product>
+	<Name>Bay leaf</Name>
+	<Barcode>001001001100001001110010000011000100001000011</Barcode>
+	<Price>9.17</Price>
+</Product>
+<Product>
+	<Name>BBQ sauce</Name>
+	<Barcode>001001001001001001000000111011000100001000110</Barcode>
+	<Price>1.15</Price>
+</Product>
+<Product>
+	<Name>Bean salad</Name>
+	<Barcode>001001001100011000100001001000010011011000100</Barcode>
+	<Price>4.78</Price>
+</Product>
+<Product>
+	<Name>Beans</Name>
+	<Barcode>001001001100011000100001001000010011001000110</Barcode>
+	<Price>13.45</Price>
+</Product>
+<Product>
+	<Name>Beans</Name>
+	<Barcode>001001001100011000100001001000010011001000110</Barcode>
+	<Price>18.90</Price>
+</Product>
+<Product>
+	<Name>Beef pot pie</Name>
+	<Barcode>001001001100011000100011000001011000011000100</Barcode>
+	<Price>11.26</Price>
+</Product>
+<Product>
+	<Name>Beets</Name>
+	<Barcode>001001001100011000100011000000010110001000110</Barcode>
+	<Price>1.00</Price>
+</Product>
+<Product>
+	<Name>Berries</Name>
+	<Barcode>001001001100011000100000110100000110001001100</Barcode>
+	<Price>19.63</Price>
+</Product>
+<Product>
+	<Name>Bisquick</Name>
+	<Barcode>001001001001001100001000110000000111110000001</Barcode>
+	<Price>15.99</Price>
+</Product>
+<Product>
+	<Name>Bleach</Name>
+	<Barcode>001001001001000011100011000100001001101001000</Barcode>
+	<Price>6.44</Price>
+</Product>
+<Product>
+	<Name>Blue berries</Name>
+	<Barcode>001001001001000011110000001100011000011000100</Barcode>
+	<Price>13.61</Price>
+</Product>
+<Product>
+	<Name>Body wash</Name>
+	<Barcode>001001001100010010000011001110010000011000100</Barcode>
+	<Price>10.55</Price>
+</Product>
+<Product>
+	<Name>Bologna</Name>
+	<Barcode>001001001100010010001000011100010010000001101</Barcode>
+	<Price>7.36</Price>
+</Product>
+<Product>
+	<Name>Bouillon cubes</Name>
+	<Barcode>001001001100010010110000001001001100001000011</Barcode>
+	<Price>8.82</Price>
+</Product>
+<Product>
+	<Name>Bread crumbs</Name>
+	<Barcode>001001001100000110100011000100001001000011001</Barcode>
+	<Price>13.80</Price>
+</Product>
+<Product>
+	<Name>Breath mints</Name>
+	<Barcode>001001001100000110100011000100001001000010110</Barcode>
+	<Price>17.97</Price>
+</Product>
+<Product>
+	<Name>Broccoli</Name>
+	<Barcode>001001001100000110100010010101001000101001000</Barcode>
+	<Price>16.29</Price>
+</Product>
+<Product>
+	<Name>Brown sugar</Name>
+	<Barcode>001001001100000110100010010111000000000010011</Barcode>
+	<Price>17.05</Price>
+</Product>
+<Product>
+	<Name>Brownie mix</Name>
+	<Barcode>001001001100000110100010010111000000000010011</Barcode>
+	<Price>4.94</Price>
+</Product>
+<Product>
+	<Name>Brownies</Name>
+	<Barcode>001001001100000110100010010111000000000010011</Barcode>
+	<Price>5.01</Price>
+</Product>
+<Product>
+	<Name>Brussels sprouts</Name>
+	<Barcode>001001001100000110110000001001000110001000110</Barcode>
+	<Price>8.71</Price>
+</Product>
+<Product>
+	<Name>Burger patties</Name>
+	<Barcode>001001001110000001100000110000001101100011000</Barcode>
+	<Price>2.15</Price>
+</Product>
+<Product>
+	<Name>Burritos</Name>
+	<Barcode>001001001110000001100000110100000110001001100</Barcode>
+	<Price>13.59</Price>
+</Product>
+<Product>
+	<Name>Butter</Name>
+	<Barcode>001001001110000001000010110000010110100011000</Barcode>
+	<Price>19.41</Price>
+</Product>
+<Product>
+	<Name>Cabbage</Name>
+	<Barcode>101001000100001001001001001001001001100001001</Barcode>
+	<Price>12.40</Price>
+</Product>
+<Product>
+	<Name>Cakes</Name>
+	<Barcode>101001000100001001100000011100011000001000110</Barcode>
+	<Price>6.13</Price>
+</Product>
+<Product>
+	<Name>Candles</Name>
+	<Barcode>101001000100001001000010011000011001001000011</Barcode>
+	<Price>3.83</Price>
+</Product>
+<Product>
+	<Name>Candy</Name>
+	<Barcode>101001000100001001000010011000011001110010000</Barcode>
+	<Price>13.25</Price>
+</Product>
+<Product>
+	<Name>Cantaloupe</Name>
+	<Barcode>101001000100001001000010011000010110100001001</Barcode>
+	<Price>20.55</Price>
+</Product>
+<Product>
+	<Name>Carrots</Name>
+	<Barcode>101001000100001001100000110100000110100010010</Barcode>
+	<Price>8.75</Price>
+</Product>
+<Product>
+	<Name>Carrots</Name>
+	<Barcode>101001000100001001100000110100000110100010010</Barcode>
+	<Price>2.73</Price>
+</Product>
+<Product>
+	<Name>Cat food</Name>
+	<Barcode>101001000100001001000010110011000100001011000</Barcode>
+	<Price>13.72</Price>
+</Product>
+<Product>
+	<Name>Catnip</Name>
+	<Barcode>101001000100001001000010110000010011001001100</Barcode>
+	<Price>20.50</Price>
+</Product>
+<Product>
+	<Name>Cauliflower</Name>
+	<Barcode>101001000100001001110000001001000011001001100</Barcode>
+	<Price>4.39</Price>
+</Product>
+<Product>
+	<Name>Celery</Name>
+	<Barcode>101001000100011000001000011100011000100000110</Barcode>
+	<Price>1.08</Price>
+</Product>
+<Product>
+	<Name>Chard</Name>
+	<Barcode>101001000100001100100001001100000110000011001</Barcode>
+	<Price>1.76</Price>
+</Product>
+<Product>
+	<Name>Cheese</Name>
+	<Barcode>101001000100001100100011000100011000001000110</Barcode>
+	<Price>11.94</Price>
+</Product>
+<Product>
+	<Name>Cheezies</Name>
+	<Barcode>101001000100001100100011000100011000011010000</Barcode>
+	<Price>2.78</Price>
+</Product>
+<Product>
+	<Name>Cherries</Name>
+	<Barcode>101001000100001100100011000100000110100000110</Barcode>
+	<Price>14.65</Price>
+</Product>
+<Product>
+	<Name>Chew toy</Name>
+	<Barcode>101001000100001100100011000111000000011000100</Barcode>
+	<Price>1.82</Price>
+</Product>
+<Product>
+	<Name>Chick peas</Name>
+	<Barcode>101001000100001100001001100101001000100000011</Barcode>
+	<Price>11.86</Price>
+</Product>
+<Product>
+	<Name>Chicken</Name>
+	<Barcode>101001000100001100001001100101001000100000011</Barcode>
+	<Price>14.73</Price>
+</Product>
+<Product>
+	<Name>Chili</Name>
+	<Barcode>101001000100001100001001100001000011001001100</Barcode>
+	<Price>20.86</Price>
+</Product>
+<Product>
+	<Name>Chip dip</Name>
+	<Barcode>101001000100001100001001100001010010011000100</Barcode>
+	<Price>8.35</Price>
+</Product>
+<Product>
+	<Name>Chips</Name>
+	<Barcode>101001000100001100001001100001010010001000110</Barcode>
+	<Price>18.04</Price>
+</Product>
+<Product>
+	<Name>Chives</Name>
+	<Barcode>101001000100001100001001100011000001100011000</Barcode>
+	<Price>2.77</Price>
+</Product>
+<Product>
+	<Name>Chocolate</Name>
+	<Barcode>101001000100001100100010010101001000100010010</Barcode>
+	<Price>6.42</Price>
+</Product>
+<Product>
+	<Name>Cilantro</Name>
+	<Barcode>101001000001001100001000011100001001000010011</Barcode>
+	<Price>15.84</Price>
+</Product>
+<Product>
+	<Name>Cinnamon</Name>
+	<Barcode>101001000001001100000010011000010011100001001</Barcode>
+	<Price>7.55</Price>
+</Product>
+<Product>
+	<Name>Clams</Name>
+	<Barcode>101001000001000011100001001101000010001000110</Barcode>
+	<Price>3.51</Price>
+</Product>
+<Product>
+	<Name>Cloves</Name>
+	<Barcode>101001000001000011100010010011000001100011000</Barcode>
+	<Price>13.71</Price>
+</Product>
+<Product>
+	<Name>Club soda</Name>
+	<Barcode>101001000001000011110000001001001001011000100</Barcode>
+	<Price>4.51</Price>
+</Product>
+<Product>
+	<Name>Cocoa powder</Name>
+	<Barcode>101001000100010010101001000100010010100001001</Barcode>
+	<Price>6.47</Price>
+</Product>
+<Product>
+	<Name>Coffee</Name>
+	<Barcode>101001000100010010001011000001011000100011000</Barcode>
+	<Price>15.53</Price>
+</Product>
+<Product>
+	<Name>Cold medicine</Name>
+	<Barcode>101001000100010010001000011000011001011000100</Barcode>
+	<Price>9.46</Price>
+</Product>
+<Product>
+	<Name>Collards</Name>
+	<Barcode>101001000100010010001000011001000011100001001</Barcode>
+	<Price>1.00</Price>
+</Product>
+<Product>
+	<Name>Conditioner</Name>
+	<Barcode>101001000100010010000010011000011001001001100</Barcode>
+	<Price>16.68</Price>
+</Product>
+<Product>
+	<Name>Cookies</Name>
+	<Barcode>101001000100010010100010010100000011001001100</Barcode>
+	<Price>16.59</Price>
+</Product>
+<Product>
+	<Name>Corn flakes</Name>
+	<Barcode>101001000100010010100000110000010011011000100</Barcode>
+	<Price>20.07</Price>
+</Product>
+<Product>
+	<Name>Corned beef</Name>
+	<Barcode>101001000100010010100000110000010011100011000</Barcode>
+	<Price>3.29</Price>
+</Product>
+<Product>
+	<Name>Cottage cheese</Name>
+	<Barcode>101001000100010010000010110000010110100001001</Barcode>
+	<Price>16.15</Price>
+</Product>
+<Product>
+	<Name>Cotton swabs</Name>
+	<Barcode>101001000100010010000010110000010110100010010</Barcode>
+	<Price>16.15</Price>
+</Product>
+<Product>
+	<Name>Couscous</Name>
+	<Barcode>101001000100010010110000001001000110101001000</Barcode>
+	<Price>6.78</Price>
+</Product>
+<Product>
+	<Name>Crabs</Name>
+	<Barcode>101001000100000110100001001001001001001000110</Barcode>
+	<Price>3.94</Price>
+</Product>
+<Product>
+	<Name>Crackers</Name>
+	<Barcode>101001000100000110100001001101001000100000011</Barcode>
+	<Price>9.68</Price>
+</Product>
+<Product>
+	<Name>Cranberries</Name>
+	<Barcode>101001000100000110100001001000010011001001001</Barcode>
+	<Price>20.18</Price>
+</Product>
+<Product>
+	<Name>Cream</Name>
+	<Barcode>101001000100000110100011000100001001101000010</Barcode>
+	<Price>8.31</Price>
+</Product>
+<Product>
+	<Name>Cream cheese</Name>
+	<Barcode>101001000100000110100011000100001001101000010</Barcode>
+	<Price>12.30</Price>
+</Product>
+<Product>
+	<Name>Cream of wheat</Name>
+	<Barcode>101001000100000110100011000100001001101000010</Barcode>
+	<Price>10.70</Price>
+</Product>
+<Product>
+	<Name>Croissants</Name>
+	<Barcode>101001000100000110100010010001001100001000110</Barcode>
+	<Price>10.89</Price>
+</Product>
+<Product>
+	<Name>Cucumbers</Name>
+	<Barcode>101001000110000001101001000110000001101000010</Barcode>
+	<Price>10.27</Price>
+</Product>
+<Product>
+	<Name>Decorations</Name>
+	<Barcode>000011001100011000101001000100010010100000110</Barcode>
+	<Price>11.32</Price>
+</Product>
+<Product>
+	<Name>Deodorant</Name>
+	<Barcode>000011001100011000100010010000011001100010010</Barcode>
+	<Price>8.62</Price>
+</Product>
+<Product>
+	<Name>Diapers</Name>
+	<Barcode>000011001001001100100001001001010010100011000</Barcode>
+	<Price>2.17</Price>
+</Product>
+<Product>
+	<Name>Dish soap</Name>
+	<Barcode>000011001001001100001000110100001100011000100</Barcode>
+	<Price>5.36</Price>
+</Product>
+<Product>
+	<Name>Dishwasher detergent</Name>
+	<Barcode>000011001001001100001000110100001100111000000</Barcode>
+	<Price>14.67</Price>
+</Product>
+<Product>
+	<Name>Dog food</Name>
+	<Barcode>000011001100010010000001101011000100001011000</Barcode>
+	<Price>15.97</Price>
+</Product>
+<Product>
+	<Name>Doughnuts</Name>
+	<Barcode>000011001100010010110000001000001101100001100</Barcode>
+	<Price>16.87</Price>
+</Product>
+<Product>
+	<Name>Dried fruit</Name>
+	<Barcode>000011001100000110001001100100011000000011001</Barcode>
+	<Price>13.70</Price>
+</Product>
+<Product>
+	<Name>Endives</Name>
+	<Barcode>100011000000010011000011001001001100011000001</Barcode>
+	<Price>13.14</Price>
+</Product>
+<Product>
+	<Name>English muffins</Name>
+	<Barcode>100011000000010011000001101001000011001001100</Barcode>
+	<Price>14.53</Price>
+</Product>
+<Product>
+	<Name>Fabric softener</Name>
+	<Barcode>001011000100001001001001001100000110001001100</Barcode>
+	<Price>20.80</Price>
+</Product>
+<Product>
+	<Name>Facial tissue</Name>
+	<Barcode>001011000100001001101001000001001100100001001</Barcode>
+	<Price>11.96</Price>
+</Product>
+<Product>
+	<Name>Fish sticks</Name>
+	<Barcode>001011000001001100001000110100001100011000100</Barcode>
+	<Price>8.01</Price>
+</Product>
+<Product>
+	<Name>Flea collar</Name>
+	<Barcode>001011000001000011100011000100001001011000100</Barcode>
+	<Price>10.76</Price>
+</Product>
+<Product>
+	<Name>Floss</Name>
+	<Barcode>001011000001000011100010010001000110001000110</Barcode>
+	<Price>13.66</Price>
+</Product>
+<Product>
+	<Name>Flounder</Name>
+	<Barcode>001011000001000011100010010110000001000010011</Barcode>
+	<Price>20.95</Price>
+</Product>
+<Product>
+	<Name>Flour</Name>
+	<Barcode>001011000001000011100010010110000001100000110</Barcode>
+	<Price>11.34</Price>
+</Product>
+<Product>
+	<Name>Flu medicine</Name>
+	<Barcode>001011000001000011110000001011000100101000010</Barcode>
+	<Price>19.25</Price>
+</Product>
+<Product>
+	<Name>Fruit</Name>
+	<Barcode>001011000100000110110000001001001100000010110</Barcode>
+	<Price>19.57</Price>
+</Product>
+<Product>
+	<Name>Fruit juice</Name>
+	<Barcode>001011000100000110110000001001001100000010110</Barcode>
+	<Price>8.64</Price>
+</Product>
+<Product>
+	<Name>Garbage bags</Name>
+	<Barcode>000001101100001001100000110001001001100001001</Barcode>
+	<Price>5.33</Price>
+</Product>
+<Product>
+	<Name>Garlic</Name>
+	<Barcode>000001101100001001100000110001000011001001100</Barcode>
+	<Price>19.37</Price>
+</Product>
+<Product>
+	<Name>Ginger</Name>
+	<Barcode>000001101001001100000010011000001101100011000</Barcode>
+	<Price>5.91</Price>
+</Product>
+<Product>
+	<Name>Graham crumbles</Name>
+	<Barcode>000001101100000110100001001100001100100001001</Barcode>
+	<Price>17.68</Price>
+</Product>
+<Product>
+	<Name>Granola bars</Name>
+	<Barcode>000001101100000110100001001000010011100010010</Barcode>
+	<Price>18.44</Price>
+</Product>
+<Product>
+	<Name>Grape nuts</Name>
+	<Barcode>000001101100000110100001001001010010100011000</Barcode>
+	<Price>5.87</Price>
+</Product>
+<Product>
+	<Name>Grapefruit</Name>
+	<Barcode>000001101100000110100001001001010010100011000</Barcode>
+	<Price>19.53</Price>
+</Product>
+<Product>
+	<Name>Grapes</Name>
+	<Barcode>000001101100000110100001001001010010100011000</Barcode>
+	<Price>6.67</Price>
+</Product>
+<Product>
+	<Name>Gravy</Name>
+	<Barcode>000001101100000110100001001011000001110010000</Barcode>
+	<Price>20.72</Price>
+</Product>
+<Product>
+	<Name>Green peppers</Name>
+	<Barcode>000001101100000110100011000100011000000010011</Barcode>
+	<Price>11.24</Price>
+</Product>
+<Product>
+	<Name>Gummy bears</Name>
+	<Barcode>000001101110000001101000010101000010110010000</Barcode>
+	<Price>5.35</Price>
+</Product>
+<Product>
+	<Name>Hair color</Name>
+	<Barcode>100001100100001001001001100100000110011000100</Barcode>
+	<Price>12.94</Price>
+</Product>
+<Product>
+	<Name>Half & half</Name>
+	<Barcode>100001100100001001001000011001011000011000100</Barcode>
+	<Price>6.82</Price>
+</Product>
+<Product>
+	<Name>Halibut</Name>
+	<Barcode>100001100100001001001000011001001100001001001</Barcode>
+	<Price>12.56</Price>
+</Product>
+<Product>
+	<Name>Hamlets</Name>
+	<Barcode>100001100100001001101000010001000011100011000</Barcode>
+	<Price>2.60</Price>
+</Product>
+<Product>
+	<Name>Hamburgers</Name>
+	<Barcode>100001100100001001101000010001001001110000001</Barcode>
+	<Price>12.40</Price>
+</Product>
+<Product>
+	<Name>Hand soap</Name>
+	<Barcode>100001100100001001000010011000011001011000100</Barcode>
+	<Price>20.26</Price>
+</Product>
+<Product>
+	<Name>Hash browns</Name>
+	<Barcode>100001100100001001001000110100001100011000100</Barcode>
+	<Price>15.31</Price>
+</Product>
+<Product>
+	<Name>Hickory sticks</Name>
+	<Barcode>100001100001001100101001000100000011100010010</Barcode>
+	<Price>19.00</Price>
+</Product>
+<Product>
+	<Name>Honey</Name>
+	<Barcode>100001100100010010000010011100011000110010000</Barcode>
+	<Price>18.50</Price>
+</Product>
+<Product>
+	<Name>Honeydew</Name>
+	<Barcode>100001100100010010000010011100011000110010000</Barcode>
+	<Price>12.36</Price>
+</Product>
+<Product>
+	<Name>Hot dogs</Name>
+	<Barcode>100001100100010010000010110011000100000011001</Barcode>
+	<Price>18.61</Price>
+</Product>
+<Product>
+	<Name>Hot sauce</Name>
+	<Barcode>100001100100010010000010110011000100001000110</Barcode>
+	<Price>18.84</Price>
+</Product>
+<Product>
+	<Name>Hot/Cold rub</Name>
+	<Barcode>100001100100010010000010110010100010101001000</Barcode>
+	<Price>8.11</Price>
+</Product>
+<Product>
+	<Name>HP sauce</Name>
+	<Barcode>100001100001010010011000100001000110100001001</Barcode>
+	<Price>8.70</Price>
+</Product>
+<Product>
+	<Name>Ice cream</Name>
+	<Barcode>001001100101001000100011000011000100101001000</Barcode>
+	<Price>20.54</Price>
+</Product>
+<Product>
+	<Name>Icing</Name>
+	<Barcode>001001100101001000001001100000010011000001101</Barcode>
+	<Price>19.86</Price>
+</Product>
+<Product>
+	<Name>Instant Noodles</Name>
+	<Barcode>001001100000010011001000110000010110100001001</Barcode>
+	<Price>5.37</Price>
+</Product>
+<Product>
+	<Name>JellO</Name>
+	<Barcode>000011100100011000001000011001000011100010010</Barcode>
+	<Price>18.72</Price>
+</Product>
+<Product>
+	<Name>Jelly</Name>
+	<Barcode>000011100100011000001000011001000011110010000</Barcode>
+	<Price>12.99</Price>
+</Product>
+<Product>
+	<Name>Juice</Name>
+	<Barcode>000011100110000001001001100101001000100011000</Barcode>
+	<Price>1.78</Price>
+</Product>
+<Product>
+	<Name>Kales</Name>
+	<Barcode>100000011100001001001000011100011000001000110</Barcode>
+	<Price>19.10</Price>
+</Product>
+<Product>
+	<Name>Ketchup</Name>
+	<Barcode>100000011100011000000010110101001000100001100</Barcode>
+	<Price>7.36</Price>
+</Product>
+<Product>
+	<Name>Kidscereal</Name>
+	<Barcode>100000011001001100000011001001000110101001000</Barcode>
+	<Price>12.59</Price>
+</Product>
+<Product>
+	<Name>Kitchen cleaner</Name>
+	<Barcode>100000011001001100000010110101001000100001100</Barcode>
+	<Price>14.50</Price>
+</Product>
+<Product>
+	<Name>Kiwis</Name>
+	<Barcode>100000011001001100111000000001001100001000110</Barcode>
+	<Price>5.56</Price>
+</Product>
+<Product>
+	<Name>Kohlrabi</Name>
+	<Barcode>100000011100010010100001100001000011100000110</Barcode>
+	<Price>16.30</Price>
+</Product>
+<Product>
+	<Name>Kumquats</Name>
+	<Barcode>100000011110000001101000010000000111110000001</Barcode>
+	<Price>10.39</Price>
+</Product>
+<Product>
+	<Name>Laundry detergent</Name>
+	<Barcode>001000011100001001110000001000010011000011001</Barcode>
+	<Price>11.62</Price>
+</Product>
+<Product>
+	<Name>Lemons</Name>
+	<Barcode>001000011100011000101000010100010010000010011</Barcode>
+	<Price>17.53</Price>
+</Product>
+<Product>
+	<Name>Lettuce</Name>
+	<Barcode>001000011100011000000010110000010110110000001</Barcode>
+	<Price>20.12</Price>
+</Product>
+<Product>
+	<Name>Limes</Name>
+	<Barcode>001000011001001100101000010100011000001000110</Barcode>
+	<Price>18.79</Price>
+</Product>
+<Product>
+	<Name>Linguini</Name>
+	<Barcode>001000011001001100000010011000001101110000001</Barcode>
+	<Price>5.41</Price>
+</Product>
+<Product>
+	<Name>Lip balm</Name>
+	<Barcode>001000011001001100001010010011000100001001001</Barcode>
+	<Price>12.59</Price>
+</Product>
+<Product>
+	<Name>Liver</Name>
+	<Barcode>001000011001001100011000001100011000100000110</Barcode>
+	<Price>4.51</Price>
+</Product>
+<Product>
+	<Name>Lobster</Name>
+	<Barcode>001000011100010010001001001001000110000010110</Barcode>
+	<Price>2.11</Price>
+</Product>
+<Product>
+	<Name>Lunch bags</Name>
+	<Barcode>001000011110000001000010011101001000100001100</Barcode>
+	<Price>15.30</Price>
+</Product>
+<Product>
+	<Name>Mac cheese</Name>
+	<Barcode>101000010100001001101001000011000100101001000</Barcode>
+	<Price>13.45</Price>
+</Product>
+<Product>
+	<Name>Macaroni</Name>
+	<Barcode>101000010100001001101001000100001001100000110</Barcode>
+	<Price>6.37</Price>
+</Product>
+<Product>
+	<Name>Mangoes</Name>
+	<Barcode>101000010100001001000010011000001101100010010</Barcode>
+	<Price>9.74</Price>
+</Product>
+<Product>
+	<Name>Maple syrup</Name>
+	<Barcode>101000010100001001001010010001000011100011000</Barcode>
+	<Price>10.52</Price>
+</Product>
+<Product>
+	<Name>Margarine</Name>
+	<Barcode>101000010100001001100000110000001101100001001</Barcode>
+	<Price>2.21</Price>
+</Product>
+<Product>
+	<Name>Marmalade</Name>
+	<Barcode>101000010100001001100000110101000010100001001</Barcode>
+	<Price>19.49</Price>
+</Product>
+<Product>
+	<Name>Mashed potatoes</Name>
+	<Barcode>101000010100001001001000110100001100100011000</Barcode>
+	<Price>1.70</Price>
+</Product>
+<Product>
+	<Name>Mayonnaise</Name>
+	<Barcode>101000010100001001110010000100010010000010011</Barcode>
+	<Price>11.07</Price>
+</Product>
+<Product>
+	<Name>Medicine</Name>
+	<Barcode>101000010100011000000011001001001100101001000</Barcode>
+	<Price>11.44</Price>
+</Product>
+<Product>
+	<Name>Melon</Name>
+	<Barcode>101000010100011000001000011100010010000010011</Barcode>
+	<Price>12.98</Price>
+</Product>
+<Product>
+	<Name>Mini wheats</Name>
+	<Barcode>101000010001001100000010011001001100011000100</Barcode>
+	<Price>1.94</Price>
+</Product>
+<Product>
+	<Name>Mints</Name>
+	<Barcode>101000010001001100000010011000010110001000110</Barcode>
+	<Price>8.29</Price>
+</Product>
+<Product>
+	<Name>Mixed vegetables</Name>
+	<Barcode>101000010001001100010010001100011000000011001</Barcode>
+	<Price>20.25</Price>
+</Product>
+<Product>
+	<Name>Mixers</Name>
+	<Barcode>101000010001001100010010001100011000100000110</Barcode>
+	<Price>13.24</Price>
+</Product>
+<Product>
+	<Name>Molasses</Name>
+	<Barcode>101000010100010010001000011100001001001000110</Barcode>
+	<Price>11.58</Price>
+</Product>
+<Product>
+	<Name>Montreal meat spice</Name>
+	<Barcode>101000010100010010000010011000010110100000110</Barcode>
+	<Price>16.78</Price>
+</Product>
+<Product>
+	<Name>Mosquito repellant</Name>
+	<Barcode>101000010100010010001000110000000111110000001</Barcode>
+	<Price>19.50</Price>
+</Product>
+<Product>
+	<Name>Mousse </Name>
+	<Barcode>101000010100010010110000001001000110001000110</Barcode>
+	<Price>5.58</Price>
+</Product>
+<Product>
+	<Name>Mozzarella sticks</Name>
+	<Barcode>101000010100010010011010000011010000100001001</Barcode>
+	<Price>15.43</Price>
+</Product>
+<Product>
+	<Name>Muffin Mix</Name>
+	<Barcode>101000010110000001001011000001011000001001100</Barcode>
+	<Price>15.20</Price>
+</Product>
+<Product>
+	<Name>Mushrooms</Name>
+	<Barcode>101000010110000001001000110100001100100000110</Barcode>
+	<Price>8.05</Price>
+</Product>
+<Product>
+	<Name>Muslix</Name>
+	<Barcode>101000010110000001001000110001000011001001100</Barcode>
+	<Price>11.06</Price>
+</Product>
+<Product>
+	<Name>Mussels</Name>
+	<Barcode>101000010110000001001000110001000110100011000</Barcode>
+	<Price>14.73</Price>
+</Product>
+<Product>
+	<Name>Mustard</Name>
+	<Barcode>101000010110000001001000110000010110100001001</Barcode>
+	<Price>19.15</Price>
+</Product>
+<Product>
+	<Name>Nacho chips</Name>
+	<Barcode>000010011100001001101001000100001100100010010</Barcode>
+	<Price>3.36</Price>
+</Product>
+<Product>
+	<Name>Nail clippers</Name>
+	<Barcode>000010011100001001001001100001000011011000100</Barcode>
+	<Price>17.16</Price>
+</Product>
+<Product>
+	<Name>Napkins</Name>
+	<Barcode>000010011100001001001010010100000011001001100</Barcode>
+	<Price>4.71</Price>
+</Product>
+<Product>
+	<Name>Nectarines</Name>
+	<Barcode>000010011100011000101001000000010110100001001</Barcode>
+	<Price>17.82</Price>
+</Product>
+<Product>
+	<Name>Non-stick spray</Name>
+	<Barcode>000010011100010010000010011010000101001000110</Barcode>
+	<Price>10.61</Price>
+</Product>
+<Product>
+	<Name>Oatmeal</Name>
+	<Barcode>100010010100001001000010110101000010100011000</Barcode>
+	<Price>3.11</Price>
+</Product>
+<Product>
+	<Name>Olives</Name>
+	<Barcode>100010010001000011001001100011000001100011000</Barcode>
+	<Price>10.55</Price>
+</Product>
+<Product>
+	<Name>Onions</Name>
+	<Barcode>100010010000010011001001100100010010000010011</Barcode>
+	<Price>4.12</Price>
+</Product>
+<Product>
+	<Name>Oranges</Name>
+	<Barcode>100010010100000110100001001000010011000001101</Barcode>
+	<Price>1.83</Price>
+</Product>
+<Product>
+	<Name>Oregano</Name>
+	<Barcode>100010010100000110100011000000001101100001001</Barcode>
+	<Price>20.10</Price>
+</Product>
+<Product>
+	<Name>Oysters</Name>
+	<Barcode>100010010110010000001000110000010110100011000</Barcode>
+	<Price>13.43</Price>
+</Product>
+<Product>
+	<Name>Pabulum</Name>
+	<Barcode>001010010100001001001001001110000001001000011</Barcode>
+	<Price>5.68</Price>
+</Product>
+<Product>
+	<Name>Pancake mix</Name>
+	<Barcode>001010010100001001000010011101001000100001001</Barcode>
+	<Price>16.00</Price>
+</Product>
+<Product>
+	<Name>Papaya</Name>
+	<Barcode>001010010100001001001010010100001001110010000</Barcode>
+	<Price>6.01</Price>
+</Product>
+<Product>
+	<Name>Paper towels</Name>
+	<Barcode>001010010100001001001010010100011000100000110</Barcode>
+	<Price>14.52</Price>
+</Product>
+<Product>
+	<Name>Paprika</Name>
+	<Barcode>001010010100001001001010010100000110001001100</Barcode>
+	<Price>2.78</Price>
+</Product>
+<Product>
+	<Name>Parsley</Name>
+	<Barcode>001010010100001001100000110001000110001000011</Barcode>
+	<Price>20.37</Price>
+</Product>
+<Product>
+	<Name>Parsnips</Name>
+	<Barcode>001010010100001001100000110001000110000010011</Barcode>
+	<Price>17.74</Price>
+</Product>
+<Product>
+	<Name>Pasta</Name>
+	<Barcode>001010010100001001001000110000010110100001001</Barcode>
+	<Price>15.27</Price>
+</Product>
+<Product>
+	<Name>Peaches</Name>
+	<Barcode>001010010100011000100001001101001000100001100</Barcode>
+	<Price>19.31</Price>
+</Product>
+<Product>
+	<Name>Peanut butter</Name>
+	<Barcode>001010010100011000100001001000010011110000001</Barcode>
+	<Price>6.21</Price>
+</Product>
+<Product>
+	<Name>Peanuts</Name>
+	<Barcode>001010010100011000100001001000010011110000001</Barcode>
+	<Price>12.20</Price>
+</Product>
+<Product>
+	<Name>Pears</Name>
+	<Barcode>001010010100011000100001001100000110001000110</Barcode>
+	<Price>20.23</Price>
+</Product>
+<Product>
+	<Name>Pectin</Name>
+	<Barcode>001010010100011000101001000000010110001001100</Barcode>
+	<Price>7.65</Price>
+</Product>
+<Product>
+	<Name>Pepper</Name>
+	<Barcode>001010010100011000001010010001010010100011000</Barcode>
+	<Price>10.06</Price>
+</Product>
+<Product>
+	<Name>Pepperoni</Name>
+	<Barcode>001010010100011000001010010001010010100011000</Barcode>
+	<Price>4.31</Price>
+</Product>
+<Product>
+	<Name>Perogies</Name>
+	<Barcode>001010010100011000100000110100010010000001101</Barcode>
+	<Price>12.97</Price>
+</Product>
+<Product>
+	<Name>Pickles</Name>
+	<Barcode>001010010001001100101001000100000011001000011</Barcode>
+	<Price>20.81</Price>
+</Product>
+<Product>
+	<Name>Pineapple</Name>
+	<Barcode>001010010001001100000010011100011000100001001</Barcode>
+	<Price>13.90</Price>
+</Product>
+<Product>
+	<Name>Pita bread</Name>
+	<Barcode>001010010001001100000010110100001001011000100</Barcode>
+	<Price>6.18</Price>
+</Product>
+<Product>
+	<Name>Pizza</Name>
+	<Barcode>001010010001001100011010000011010000100001001</Barcode>
+	<Price>16.20</Price>
+</Product>
+<Product>
+	<Name>Plums</Name>
+	<Barcode>001010010001000011110000001101000010001000110</Barcode>
+	<Price>19.63</Price>
+</Product>
+<Product>
+	<Name>Popcorn</Name>
+	<Barcode>001010010100010010001010010101001000100010010</Barcode>
+	<Price>16.20</Price>
+</Product>
+<Product>
+	<Name>Popsicles</Name>
+	<Barcode>001010010100010010001010010001000110001001100</Barcode>
+	<Price>13.31</Price>
+</Product>
+<Product>
+	<Name>Pork chops</Name>
+	<Barcode>001010010100010010100000110100000011011000100</Barcode>
+	<Price>19.57</Price>
+</Product>
+<Product>
+	<Name>Pot scrubbers</Name>
+	<Barcode>001010010100010010000010110011000100001000110</Barcode>
+	<Price>9.82</Price>
+</Product>
+<Product>
+	<Name>Potatoes</Name>
+	<Barcode>001010010100010010000010110100001001000010110</Barcode>
+	<Price>7.25</Price>
+</Product>
+<Product>
+	<Name>Pretzels</Name>
+	<Barcode>001010010100000110100011000000010110011010000</Barcode>
+	<Price>18.79</Price>
+</Product>
+<Product>
+	<Name>Protein bars</Name>
+	<Barcode>001010010100000110100010010000010110100011000</Barcode>
+	<Price>17.32</Price>
+</Product>
+<Product>
+	<Name>Puffed wheat</Name>
+	<Barcode>001010010110000001001011000001011000100011000</Barcode>
+	<Price>18.01</Price>
+</Product>
+<Product>
+	<Name>Pumpernickel</Name>
+	<Barcode>001010010110000001101000010001010010100011000</Barcode>
+	<Price>18.35</Price>
+</Product>
+<Product>
+	<Name>Pumpkin</Name>
+	<Barcode>001010010110000001101000010001010010100000011</Barcode>
+	<Price>19.39</Price>
+</Product>
+<Product>
+	<Name>Radishes</Name>
+	<Barcode>100000110100001001000011001001001100001000110</Barcode>
+	<Price>11.05</Price>
+</Product>
+<Product>
+	<Name>Raisin bread</Name>
+	<Barcode>100000110100001001001001100001000110001001100</Barcode>
+	<Price>8.15</Price>
+</Product>
+<Product>
+	<Name>Raspberries</Name>
+	<Barcode>100000110100001001001000110001010010001001001</Barcode>
+	<Price>20.24</Price>
+</Product>
+<Product>
+	<Name>Ravioli</Name>
+	<Barcode>100000110100001001011000001001001100100010010</Barcode>
+	<Price>17.92</Price>
+</Product>
+<Product>
+	<Name>Red peppers</Name>
+	<Barcode>100000110100011000000011001011000100001010010</Barcode>
+	<Price>13.00</Price>
+</Product>
+<Product>
+	<Name>Relish</Name>
+	<Barcode>100000110100011000001000011001001100001000110</Barcode>
+	<Price>12.72</Price>
+</Product>
+<Product>
+	<Name>Roast beef</Name>
+	<Barcode>100000110100010010100001001001000110000010110</Barcode>
+	<Price>3.84</Price>
+</Product>
+<Product>
+	<Name>Rotini</Name>
+	<Barcode>100000110100010010000010110001001100000010011</Barcode>
+	<Price>2.68</Price>
+</Product>
+<Product>
+	<Name>Rutabagas</Name>
+	<Barcode>100000110110000001000010110100001001001001001</Barcode>
+	<Price>20.65</Price>
+</Product>
+<Product>
+	<Name>Rye bread</Name>
+	<Barcode>100000110110010000100011000011000100001001001</Barcode>
+	<Price>5.73</Price>
+</Product>
+<Product>
+	<Name>Salad dressing</Name>
+	<Barcode>001000110100001001001000011100001001000011001</Barcode>
+	<Price>5.11</Price>
+</Product>
+<Product>
+	<Name>Salami</Name>
+	<Barcode>001000110100001001001000011100001001101000010</Barcode>
+	<Price>11.03</Price>
+</Product>
+<Product>
+	<Name>Salmon</Name>
+	<Barcode>001000110100001001001000011101000010100010010</Barcode>
+	<Price>20.61</Price>
+</Product>
+<Product>
+	<Name>Salsa</Name>
+	<Barcode>001000110100001001001000011001000110100001001</Barcode>
+	<Price>7.60</Price>
+</Product>
+<Product>
+	<Name>Sandwich bags</Name>
+	<Barcode>001000110100001001000010011000011001111000000</Barcode>
+	<Price>15.84</Price>
+</Product>
+<Product>
+	<Name>Sardines</Name>
+	<Barcode>001000110100001001100000110000011001001001100</Barcode>
+	<Price>2.75</Price>
+</Product>
+<Product>
+	<Name>Sausage</Name>
+	<Barcode>001000110100001001110000001001000110100001001</Barcode>
+	<Price>11.79</Price>
+</Product>
+<Product>
+	<Name>Scrubbers</Name>
+	<Barcode>001000110101001000100000110110000001001001001</Barcode>
+	<Price>5.62</Price>
+</Product>
+<Product>
+	<Name>Seafood Frozen </Name>
+	<Barcode>001000110100011000100001001001011000100010010</Barcode>
+	<Price>12.78</Price>
+</Product>
+<Product>
+	<Name>Sealable bags</Name>
+	<Barcode>001000110100011000100001001001000011100001001</Barcode>
+	<Price>18.84</Price>
+</Product>
+<Product>
+	<Name>Shampoo</Name>
+	<Barcode>001000110100001100100001001101000010001010010</Barcode>
+	<Price>16.28</Price>
+</Product>
+<Product>
+	<Name>Shortening</Name>
+	<Barcode>001000110100001100100010010100000110000010110</Barcode>
+	<Price>16.43</Price>
+</Product>
+<Product>
+	<Name>Shreddies</Name>
+	<Barcode>001000110100001100100000110100011000000011001</Barcode>
+	<Price>14.57</Price>
+</Product>
+<Product>
+	<Name>Shrimp</Name>
+	<Barcode>001000110100001100100000110001001100101000010</Barcode>
+	<Price>14.53</Price>
+</Product>
+<Product>
+	<Name>Sorbet</Name>
+	<Barcode>001000110100010010100000110001001001100011000</Barcode>
+	<Price>1.72</Price>
+</Product>
+<Product>
+	<Name>Soups</Name>
+	<Barcode>001000110100010010110000001001010010001000110</Barcode>
+	<Price>14.17</Price>
+</Product>
+<Product>
+	<Name>Sour cream</Name>
+	<Barcode>001000110100010010110000001100000110011000100</Barcode>
+	<Price>9.57</Price>
+</Product>
+<Product>
+	<Name>Sourdough</Name>
+	<Barcode>001000110100010010110000001100000110000011001</Barcode>
+	<Price>18.93</Price>
+</Product>
+<Product>
+	<Name>Soy sauce</Name>
+	<Barcode>001000110100010010110010000011000100001000110</Barcode>
+	<Price>6.34</Price>
+</Product>
+<Product>
+	<Name>Spaghetti</Name>
+	<Barcode>001000110001010010100001001000001101100001100</Barcode>
+	<Price>19.14</Price>
+</Product>
+<Product>
+	<Name>Spinach</Name>
+	<Barcode>001000110001010010001001100000010011100001001</Barcode>
+	<Price>19.63</Price>
+</Product>
+<Product>
+	<Name>Sponges</Name>
+	<Barcode>001000110001010010100010010000010011000001101</Barcode>
+	<Price>6.31</Price>
+</Product>
+<Product>
+	<Name>Sport drink</Name>
+	<Barcode>001000110001010010100010010100000110000010110</Barcode>
+	<Price>20.44</Price>
+</Product>
+<Product>
+	<Name>Sprinkles</Name>
+	<Barcode>001000110001010010100000110001001100000010011</Barcode>
+	<Price>8.81</Price>
+</Product>
+<Product>
+	<Name>Sprouts</Name>
+	<Barcode>001000110001010010100000110100010010110000001</Barcode>
+	<Price>6.50</Price>
+</Product>
+<Product>
+	<Name>Squash</Name>
+	<Barcode>001000110000000111110000001100001001001000110</Barcode>
+	<Price>12.71</Price>
+</Product>
+<Product>
+	<Name>Steak</Name>
+	<Barcode>001000110000010110100011000100001001100000011</Barcode>
+	<Price>18.85</Price>
+</Product>
+<Product>
+	<Name>Steak sauce</Name>
+	<Barcode>001000110000010110100011000100001001100000011</Barcode>
+	<Price>15.17</Price>
+</Product>
+<Product>
+	<Name>Stews</Name>
+	<Barcode>001000110000010110100011000111000000001000110</Barcode>
+	<Price>1.28</Price>
+</Product>
+<Product>
+	<Name>Stir fry</Name>
+	<Barcode>001000110000010110001001100100000110011000100</Barcode>
+	<Price>11.70</Price>
+</Product>
+<Product>
+	<Name>Strawberries</Name>
+	<Barcode>001000110000010110100000110100001001111000000</Barcode>
+	<Price>15.05</Price>
+</Product>
+<Product>
+	<Name>Sugar</Name>
+	<Barcode>001000110110000001000001101100001001100000110</Barcode>
+	<Price>12.90</Price>
+</Product>
+<Product>
+	<Name>Sweet sour sauce</Name>
+	<Barcode>001000110111000000100011000100011000000010110</Barcode>
+	<Price>19.26</Price>
+</Product>
+<Product>
+	<Name>Sword fish</Name>
+	<Barcode>001000110111000000100010010100000110000011001</Barcode>
+	<Price>3.69</Price>
+</Product>
+<Product>
+	<Name>Syrup</Name>
+	<Barcode>001000110110010000100000110110000001001010010</Barcode>
+	<Price>10.24</Price>
+</Product>
+<Product>
+	<Name>Taquitos</Name>
+	<Barcode>000010110100001001000000111110000001001001100</Barcode>
+	<Price>3.38</Price>
+</Product>
+<Product>
+	<Name>Tartar Sauce</Name>
+	<Barcode>000010110100001001100000110000010110100001001</Barcode>
+	<Price>10.08</Price>
+</Product>
+<Product>
+	<Name>Tater tots</Name>
+	<Barcode>000010110100001001000010110100011000100000110</Barcode>
+	<Price>5.23</Price>
+</Product>
+<Product>
+	<Name>Teething ointment</Name>
+	<Barcode>000010110100011000100011000000010110100001100</Barcode>
+	<Price>9.67</Price>
+</Product>
+<Product>
+	<Name>Teething ring</Name>
+	<Barcode>000010110100011000100011000000010110100001100</Barcode>
+	<Price>7.73</Price>
+</Product>
+<Product>
+	<Name>Tilapia</Name>
+	<Barcode>000010110001001100001000011100001001001010010</Barcode>
+	<Price>10.10</Price>
+</Product>
+<Product>
+	<Name>Tofus</Name>
+	<Barcode>000010110100010010001011000110000001001000110</Barcode>
+	<Price>9.83</Price>
+</Product>
+<Product>
+	<Name>Toilet paper</Name>
+	<Barcode>000010110100010010001001100001000011100011000</Barcode>
+	<Price>7.29</Price>
+</Product>
+<Product>
+	<Name>Tomato sauce</Name>
+	<Barcode>000010110100010010101000010100001001000010110</Barcode>
+	<Price>12.06</Price>
+</Product>
+<Product>
+	<Name>Tortillas</Name>
+	<Barcode>000010110100010010100000110000010110001001100</Barcode>
+	<Price>15.48</Price>
+</Product>
+<Product>
+	<Name>Trail mix</Name>
+	<Barcode>000010110100000110100001001001001100001000011</Barcode>
+	<Price>3.95</Price>
+</Product>
+<Product>
+	<Name>Treats</Name>
+	<Barcode>000010110100000110100011000100001001000010110</Barcode>
+	<Price>10.72</Price>
+</Product>
+<Product>
+	<Name>TubTile cleaner</Name>
+	<Barcode>000010110110000001001001001000010110001001100</Barcode>
+	<Price>15.12</Price>
+</Product>
+<Product>
+	<Name>Tunafish</Name>
+	<Barcode>000010110110000001000010011100001001001011000</Barcode>
+	<Price>19.83</Price>
+</Product>
+<Product>
+	<Name>Turkey</Name>
+	<Barcode>000010110110000001100000110100000011100011000</Barcode>
+	<Price>9.39</Price>
+</Product>
+<Product>
+	<Name>TV dinners</Name>
+	<Barcode>000010110011000001011000100000011001001001100</Barcode>
+	<Price>17.10</Price>
+</Product>
+<Product>
+	<Name>Vacuum bags</Name>
+	<Barcode>011000001100001001101001000110000001110000001</Barcode>
+	<Price>1.13</Price>
+</Product>
+<Product>
+	<Name>Vanilla extract</Name>
+	<Barcode>011000001100001001000010011001001100001000011</Barcode>
+	<Price>5.49</Price>
+</Product>
+<Product>
+	<Name>Vector</Name>
+	<Barcode>011000001100011000101001000000010110100010010</Barcode>
+	<Price>17.15</Price>
+</Product>
+<Product>
+	<Name>Vegetables Fruits </Name>
+	<Barcode>011000001100011000000001101100011000000010110</Barcode>
+	<Price>11.60</Price>
+</Product>
+<Product>
+	<Name>Veggie burgers</Name>
+	<Barcode>011000001100011000000001101000001101001001100</Barcode>
+	<Price>3.71</Price>
+</Product>
+<Product>
+	<Name>Vinegar</Name>
+	<Barcode>011000001001001100000010011100011000000001101</Barcode>
+	<Price>15.13</Price>
+</Product>
+<Product>
+	<Name>Waffles</Name>
+	<Barcode>111000000100001001001011000001011000001000011</Barcode>
+	<Price>12.36</Price>
+</Product>
+<Product>
+	<Name>Wax paper</Name>
+	<Barcode>111000000100001001010010001011000100001010010</Barcode>
+	<Price>2.31</Price>
+</Product>
+<Product>
+	<Name>Whipping cream</Name>
+	<Barcode>111000000100001100001001100001010010001010010</Barcode>
+	<Price>1.89</Price>
+</Product>
+<Product>
+	<Name>Whole grain</Name>
+	<Barcode>111000000100001100100010010001000011100011000</Barcode>
+	<Price>1.61</Price>
+</Product>
+<Product>
+	<Name>Worcestershire sauce</Name>
+	<Barcode>111000000100010010100000110101001000100011000</Barcode>
+	<Price>12.19</Price>
+</Product>
+<Product>
+	<Name>Yams red</Name>
+	<Barcode>110010000100001001101000010001000110011000100</Barcode>
+	<Price>9.25</Price>
+</Product>
+<Product>
+	<Name>Yeast</Name>
+	<Barcode>110010000100011000100001001001000110000010110</Barcode>
+	<Price>19.98</Price>
+</Product>
+<Product>
+	<Name>Yellow peppers</Name>
+	<Barcode>110010000100011000001000011001000011100010010</Barcode>
+	<Price>19.83</Price>
+</Product>
+<Product>
+	<Name>Yogurt</Name>
+	<Barcode>110010000100010010000001101110000001100000110</Barcode>
+	<Price>14.63</Price>
+</Product>
+<Product>
+	<Name>Zucchini</Name>
+	<Barcode>011010000110000001101001000101001000100001100</Barcode>
+	<Price>18.16</Price>
+</Product>

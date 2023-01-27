@@ -1,0 +1,31 @@
+<diagram program="umletino" version="14.4.0-SNAPSHOT"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>0</x><y>110</y><w>210</w><h>190</h></coordinates><panel_attributes>fileStream
+--
+int bitSet
+--
+void openFile()
+void setBits()
+int getBits()</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>0</x><y>370</y><w>210</w><h>190</h></coordinates><panel_attributes>Storage Class
+--
+tuple&lt;string, string, char&gt;
+--
+void setASCII()
+void setBinary()
+void setMorseCode()
+tuple&lt;int, string, string&gt; returnTuple()</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>260</x><y>110</y><w>210</w><h>190</h></coordinates><panel_attributes>Decrypt Morse Code
+--
+string Decrypted
+--
+string decrypt (string)
+void algorithmSearch(&lt;tuple&gt;)
+void printDecrypted()
+
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>280</x><y>370</y><w>210</w><h>190</h></coordinates><panel_attributes>convertFile
+--
+int binary
+string morseCode
+--
+string convertToLetter(Morse)
+void setTuple()
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>80</x><y>290</y><w>30</w><h>100</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;80;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>200</x><y>450</y><w>100</w><h>30</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>80;10;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>200</x><y>400</y><w>100</w><h>30</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;80;10</additional_attributes></element><element><id>Relation</id><coordinates><x>200</x><y>290</y><w>170</w><h>100</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>150;10;10;80</additional_attributes></element></diagram>

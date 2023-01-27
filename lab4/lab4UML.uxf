@@ -1,0 +1,36 @@
+<diagram program="umletino" version="14.4.0-SNAPSHOT"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>10</x><y>60</y><w>210</w><h>190</h></coordinates><panel_attributes>class ReadFile
+--
+deque&lt;string&gt; Storage
+string fstream
+ifstream fileName
+--
+string openFile(string)
+deque&lt;string&gt; storeFile(string)</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>300</x><y>60</y><w>210</w><h>190</h></coordinates><panel_attributes>class QTmanage
+--
+int arg
+char* args
+map&lt;int, char&gt; mapObj
+--
+void handleQT()
+map&lt;int, char&gt; plotPtr(int, char)
+void createGraph(int, char)
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>10</x><y>290</y><w>210</w><h>190</h></coordinates><panel_attributes>class Calculations
+--
+int i
+int xi
+int yi
+int x2
+int y2
+vector&lt;int&gt;sums
+--
+void readData(int, int)
+void intialize(int, int, int, int)
+void calSums()
+vector&lt;int&gt; returnSums()
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>300</x><y>290</y><w>210</w><h>190</h></coordinates><panel_attributes>class outFile
+--
+ofstream ofile
+string outName
+--
+void printAnswer(int)
+void createFile(ofstream, string)</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>210</x><y>160</y><w>110</w><h>30</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>90;10;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>210</x><y>240</y><w>110</w><h>70</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;50;90;10</additional_attributes></element><element><id>Relation</id><coordinates><x>210</x><y>380</y><w>110</w><h>30</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>90;10;10;10</additional_attributes></element></diagram>

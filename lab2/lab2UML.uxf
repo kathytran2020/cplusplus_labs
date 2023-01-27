@@ -1,0 +1,41 @@
+<diagram program="umletino" version="14.4.0-SNAPSHOT"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLClass</id><coordinates><x>0</x><y>50</y><w>210</w><h>190</h></coordinates><panel_attributes>FileStream
+--
+string fileName
+--
+void openFile(string)
+string fileData(string)
+void closeFile(string)</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>0</x><y>300</y><w>210</w><h>190</h></coordinates><panel_attributes>ASCII Table
+--
+string freqData
+int fileLength
+int freqency
+unsigned var
+--
+void storeFile()
+void createFreqTable(frequency, var)
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>330</x><y>50</y><w>210</w><h>190</h></coordinates><panel_attributes>ProcessData
+--
+int tree
+string str
+float fq
+string binName
+node* a
+--
+void Encode(int, string)
+void PriorityTree(fq)
+void openBin(string)
+node* findNode(int)</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>330</x><y>310</y><w>210</w><h>190</h></coordinates><panel_attributes>Output
+--
+node *b
+string outputFile
+--
+node* getNode(b)
+void ansToFile(string)</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>90</x><y>230</y><w>40</w><h>90</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;70;20;10</additional_attributes></element><element><id>Relation</id><coordinates><x>200</x><y>140</y><w>150</w><h>280</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>130;10;10;260</additional_attributes></element><element><id>Relation</id><coordinates><x>530</x><y>150</y><w>100</w><h>30</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>80;10;10;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>610</x><y>50</y><w>210</w><h>190</h></coordinates><panel_attributes>Node
+--
+*node L
+*node R
+--
+node* L()
+node* R()
+branch(node, node)
+void returnSymbol()</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>530</x><y>200</y><w>100</w><h>30</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>10;10;80;10</additional_attributes></element><element><id>Relation</id><coordinates><x>430</x><y>230</y><w>30</w><h>100</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>10;80;10;10</additional_attributes></element></diagram>
